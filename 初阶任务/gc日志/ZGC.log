@@ -1,0 +1,95 @@
+[0.401s][info][gc] Using The Z Garbage Collector
+[0.875s][info][gc] GC(0) Garbage Collection (Warmup) 114M(11%)->142M(14%)
+[0.976s][info][gc] GC(1) Garbage Collection (Warmup) 284M(28%)->330M(32%)
+[1.075s][info][gc] GC(2) Garbage Collection (Warmup) 474M(46%)->518M(51%)
+[1.173s][info][gc] GC(3) Garbage Collection (Allocation Rate) 610M(60%)->640M(62%)
+[1.261s][info][gc] GC(4) Garbage Collection (Allocation Rate) 736M(72%)->108M(11%)
+[1.356s][info][gc] GC(5) Garbage Collection (Allocation Rate) 708M(69%)->104M(10%)
+[1.460s][info][gc] GC(6) Garbage Collection (Allocation Rate) 816M(80%)->198M(19%)
+[1.563s][info][gc] GC(7) Garbage Collection (Allocation Rate) 896M(88%)->268M(26%)
+[1.663s][info][gc] GC(8) Garbage Collection (Allocation Rate) 974M(95%)->346M(34%)
+[2.087s][info][gc] GC(9) Garbage Collection (Allocation Rate) 996M(97%)->360M(35%)
+[4.384s][info][gc] GC(10) Garbage Collection (Allocation Rate) 1012M(99%)->378M(37%)
+[4.564s][info][gc] GC(11) Garbage Collection (Allocation Rate) 1018M(99%)->384M(38%)
+[4.615s][info][gc] Allocation Stall (main) 5.188ms
+[4.617s][info][gc] GC(12) Garbage Collection (Allocation Stall) 1024M(100%)->386M(38%)
+[4.663s][info][gc] GC(13) Garbage Collection (Allocation Rate) 776M(76%)->176M(17%)
+[4.755s][info][gc] Allocation Stall (main) 4.471ms
+[4.758s][info][gc] GC(14) Garbage Collection (Allocation Rate) 1014M(99%)->392M(38%)
+[4.825s][info][gc] Allocation Stall (main) 11.978ms
+[4.829s][info][gc] GC(15) Garbage Collection (Allocation Stall) 1024M(100%)->404M(39%)
+[4.856s][info][gc] GC(16) Garbage Collection (Allocation Rate) 644M(63%)->56M(5%)
+[4.928s][info][gc] Allocation Stall (main) 6.027ms
+[4.931s][info][gc] GC(17) Garbage Collection (Allocation Stall) 1024M(100%)->396M(39%)
+[4.961s][info][gc] GC(18) Garbage Collection (Allocation Rate) 640M(62%)->72M(7%)
+[5.035s][info][gc] Allocation Stall (main) 5.403ms
+[5.036s][info][gc] GC(19) Garbage Collection (Allocation Stall) 1024M(100%)->374M(37%)
+[5.071s][info][gc] GC(20) Garbage Collection (Allocation Rate) 570M(56%)->500M(49%)
+[5.163s][info][gc] Allocation Stall (main) 57.658ms
+[5.166s][info][gc] GC(21) Garbage Collection (Allocation Stall) 1024M(100%)->620M(61%)
+[5.203s][info][gc] Allocation Stall (main) 6.142ms
+[5.206s][info][gc] GC(22) Garbage Collection (Allocation Stall) 1024M(100%)->400M(39%)
+[5.250s][info][gc] Allocation Stall (main) 5.848ms
+[5.253s][info][gc] GC(23) Garbage Collection (Allocation Stall) 1024M(100%)->410M(40%)
+[5.297s][info][gc] Allocation Stall (main) 5.860ms
+[5.299s][info][gc] GC(24) Garbage Collection (Allocation Stall) 1024M(100%)->392M(38%)
+[5.347s][info][gc] Allocation Stall (main) 7.986ms
+[5.349s][info][gc] GC(25) Garbage Collection (Allocation Stall) 1024M(100%)->398M(39%)
+[5.398s][info][gc] Allocation Stall (main) 5.376ms
+[5.399s][info][gc] GC(26) Garbage Collection (Allocation Stall) 1024M(100%)->396M(39%)
+[5.445s][info][gc] Allocation Stall (main) 5.292ms
+[5.448s][info][gc] GC(27) Garbage Collection (Allocation Stall) 1024M(100%)->424M(41%)
+[5.460s][info][gc] GC(28) Garbage Collection (Allocation Rate) 434M(42%)->508M(50%)
+[5.497s][info][gc] Allocation Stall (main) 5.535ms
+[5.499s][info][gc] GC(29) Garbage Collection (Allocation Stall) 1024M(100%)->418M(41%)
+[5.539s][info][gc] Allocation Stall (main) 5.668ms
+[5.542s][info][gc] GC(30) Garbage Collection (Allocation Stall) 1024M(100%)->416M(41%)
+[5.559s][info][gc] GC(31) Garbage Collection (Allocation Rate) 560M(55%)->604M(59%)
+[5.588s][info][gc] Allocation Stall (main) 4.943ms
+[5.591s][info][gc] GC(32) Garbage Collection (Allocation Stall) 1024M(100%)->414M(40%)
+[5.630s][info][gc] Allocation Stall (main) 6.043ms
+[5.632s][info][gc] GC(33) Garbage Collection (Allocation Stall) 1024M(100%)->418M(41%)
+[5.658s][info][gc] GC(34) Garbage Collection (Allocation Rate) 738M(72%)->178M(17%)
+[5.713s][info][gc] Allocation Stall (main) 6.468ms
+[5.717s][info][gc] GC(35) Garbage Collection (Allocation Stall) 1024M(100%)->412M(40%)
+[5.800s][info][gc] GC(36) Garbage Collection (Allocation Rate) 930M(91%)->664M(65%)
+[5.826s][info][gc] Allocation Stall (main) 5.719ms
+[5.829s][info][gc] GC(37) Garbage Collection (Allocation Stall) 1024M(100%)->424M(41%)
+[5.981s][info][gc] GC(38) Garbage Collection (Allocation Rate) 758M(74%)->1022M(100%)
+[5.986s][info][gc] Allocation Stall (main) 49.842ms
+[6.002s][info][gc] Allocation Stall (main) 15.373ms
+[6.004s][info][gc] GC(39) Garbage Collection (Allocation Stall) 1024M(100%)->398M(39%)
+[6.048s][info][gc] Allocation Stall (main) 6.326ms
+[6.050s][info][gc] GC(40) Garbage Collection (Allocation Stall) 1024M(100%)->408M(40%)
+[6.105s][info][gc] Allocation Stall (main) 5.276ms
+[6.107s][info][gc] GC(41) Garbage Collection (Allocation Stall) 1024M(100%)->404M(39%)
+[6.156s][info][gc] Allocation Stall (main) 3.478ms
+[6.157s][info][gc] GC(42) Garbage Collection (Allocation Rate) 986M(96%)->404M(39%)
+[6.202s][info][gc] Allocation Stall (main) 5.300ms
+[6.204s][info][gc] GC(43) Garbage Collection (Allocation Stall) 1024M(100%)->402M(39%)
+[6.246s][info][gc] Allocation Stall (main) 5.137ms
+[6.248s][info][gc] GC(44) Garbage Collection (Allocation Stall) 1024M(100%)->404M(39%)
+[6.258s][info][gc] GC(45) Garbage Collection (Allocation Rate) 418M(41%)->492M(48%)
+[6.295s][info][gc] Allocation Stall (main) 5.952ms
+[6.298s][info][gc] GC(46) Garbage Collection (Allocation Stall) 1024M(100%)->420M(41%)
+[6.339s][info][gc] Allocation Stall (main) 6.018ms
+[6.342s][info][gc] GC(47) Garbage Collection (Allocation Stall) 1024M(100%)->414M(40%)
+[6.365s][info][gc] GC(48) Garbage Collection (Allocation Rate) 532M(52%)->662M(65%)
+[6.395s][info][gc] Allocation Stall (main) 6.353ms
+[6.397s][info][gc] GC(49) Garbage Collection (Allocation Stall) 1024M(100%)->458M(45%)
+[6.438s][info][gc] Allocation Stall (main) 5.616ms
+[6.440s][info][gc] GC(50) Garbage Collection (Allocation Stall) 1024M(100%)->412M(40%)
+[6.486s][info][gc] GC(51) Garbage Collection (Allocation Rate) 564M(55%)->758M(74%)
+[6.508s][info][gc] Allocation Stall (main) 5.728ms
+[6.511s][info][gc] GC(52) Garbage Collection (Allocation Stall) 1024M(100%)->418M(41%)
+[6.556s][info][gc] Allocation Stall (main) 7.015ms
+[6.560s][info][gc] GC(53) Garbage Collection (Allocation Stall) 1024M(100%)->424M(41%)
+[6.606s][info][gc] Allocation Stall (main) 5.825ms
+[6.610s][info][gc] GC(54) Garbage Collection (Allocation Stall) 1024M(100%)->426M(42%)
+[6.657s][info][gc] Allocation Stall (main) 0.873ms
+[6.661s][info][gc] GC(55) Garbage Collection (Allocation Rate) 964M(94%)->426M(42%)
+[6.709s][info][gc] Allocation Stall (main) 6.307ms
+[6.712s][info][gc] GC(56) Garbage Collection (Allocation Stall) 1024M(100%)->422M(41%)
+[6.760s][info][gc] GC(57) Garbage Collection (Allocation Rate) 934M(91%)->416M(41%)
+[6.804s][info][gc] Allocation Stall (main) 6.216ms
+[6.807s][info][gc] GC(58) Garbage Collection (Allocation Stall) 1024M(100%)->418M(41%)
